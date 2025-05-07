@@ -23,7 +23,7 @@ currently exploring new tools and best practices in DevOps, Web3, and Cloud-nati
  Let's Connect!
 Feel free to reach out or collaborate on exciting projects!
 
-LinkedIn: (Coming Soon)
+LinkedIn: https://www.linkedin.com/in/antipas-ben-5b228730b/
 
 Twitter: (Coming Soon)
 
