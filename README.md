@@ -1,7 +1,7 @@
 Hi, I'm Antipas Ben
 Welcome to my GitHub! I'm a passionate Full-Stack Developer with hands-on experience building scalable web applications and backend systems. I specialize in creating robust solutions using modern technologies across the stack.
 
-🚀 Tech Stack
+ Tech Stack
 Frontend:
 Javascript, Typescript, React, Nextjs
 Backend:
@@ -22,11 +22,5 @@ currently exploring new tools and best practices in DevOps, Web3, and Cloud-nati
 
  Let's Connect!
 Feel free to reach out or collaborate on exciting projects!
-
-LinkedIn: https://www.linkedin.com/in/antipas-ben-5b228730b/
-
-Twitter: (Coming Soon)
-
-Portfolio/Website: (Coming Soon)
 
 "Code is like humor. When you have to explain it, it’s bad." — Cory House
